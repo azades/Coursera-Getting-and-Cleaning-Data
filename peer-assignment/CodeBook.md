@@ -10,7 +10,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
  'mergedLable'data frame, merge 'testSubject' and  'trainSubject' to generate 'mergedSubject' data frame.  
  * Read the 'features.txt' file and store the data in  'features' variable.
  We just need the measurements on the mean and standard deviation not all the data frame.
- * Clean the column names of the subset by removing  the '()' , '-' symbols.   
+ * Clean the column names of the subset.   
  * Read the activity_labels.txt file and store the data in the 'activities'variable.  
  * Transform the values of 'mergedLabel' to the 'activities' data frame.  
  * Combine the 'mergedSubject', 'mergedLabel' and 'mergedData' by column to get a new cleaned  data frame, 'cleanedData'. 
