@@ -1,5 +1,5 @@
 Getting and Cleaning Data - Peer Assignment CodeBook
-=================================================
+----------------------------------------------------
     
 * The data for the project is from the: 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip  
@@ -16,5 +16,5 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
  * Combine the 'mergedSubject', 'mergedLabel' and 'mergedData' by column to get a new cleaned  data frame, 'cleanedData'. 
  * Write the 'cleanedData' to 'merged_data.txt' file to create the text file we need.  
  * generate a tidy data set 'tidyDat' with the average of each measurement for each activity and each subject. 
- * Write the 'tidyDat' to "data_with_means.txt" file in order to have the tidy data set in text format. 
+ * Write the 'tidyData' to "data_with_means.txt" file in order to have the tidy data set in text format. 
  
